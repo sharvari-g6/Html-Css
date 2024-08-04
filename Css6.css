@@ -1,0 +1,46 @@
+.navbar{
+    background-color: pink;
+    display: flex;
+    justify-content: space-evenly;
+}
+a{
+    text-decoration: none;
+    background-color: aqua;
+}
+li{
+    list-style-type: none;
+    background-color: aqua;
+}
+.outer{
+    height:400px;
+    width:150px;
+    background-color: black;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.inner1{
+    height:100px;
+    width:100px;
+    background-color: red;
+    border-radius: 50%;
+}
+.inner2{
+    height:100px;
+    width:100px;
+    background-color:yellow;
+    border-radius: 50%;
+}
+.inner3{
+    height:100px;
+    width:100px;
+    background-color: green;
+    border-radius: 50%;
+}
+#id1{
+    height: 400px;
+    width:20px;
+    background-color: black; 
+    margin-left: 60px;
+}

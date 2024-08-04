@@ -1,0 +1,99 @@
+.class1{
+    height: 200px;
+    width: 200px;
+    background-color: chocolate;
+}
+
+.class2{
+    height:500px;
+    width:500px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: aqua;
+    margin-left:700px;
+}
+
+.class1:hover{
+    background-image: url("https://media.baamboozle.com/uploads/images/585697/1665135606_385484.png");
+    transform: scale(2);
+    background-size: cover;
+}
+
+.class3{
+    height: 200px;
+    width: 200px;
+    background-color: burlywood;
+}
+
+.class4{
+    height:500px;
+    width:500px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: brown;
+    margin-top:20px;
+
+}
+
+.class3:hover{
+    background-image: url("https://e7.pngegg.com/pngimages/108/98/png-clipart-ape-monkey-naughty-monkey-mammal-animals.png");
+    transform: scale(2);
+    background-size: cover;
+}
+
+.class5{
+    height: 200px;
+    width: 200px;
+    background-color: pink;
+}
+
+.class6{
+    height:500px;
+    width:500px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: red;
+    margin-left:700px;
+    margin-top:10px;
+
+}
+
+.class7{
+    height: 200px;
+    width: 200px;
+    background-color: yellow;
+}
+
+.class8{
+    height:500px;
+    width:500px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    background-color: orange;
+
+}
+
+.class5:hover{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpJM6jQSLuD8iEtIdMMZJNs_OQFarTk9FHrQ&s");
+    transform: scale(2);
+    background-size: cover;
+}
+
+.class7:hover{
+    background-image: url("https://img.freepik.com/premium-vector/naughty-monkey-animal_18591-60308.jpg");
+    transform: scale(2);
+    background-size: cover;
+}
+
+.main{
+    display: inline-block;
+}
+
+
+
+
+
